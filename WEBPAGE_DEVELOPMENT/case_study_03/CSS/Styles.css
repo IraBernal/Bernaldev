@@ -1,0 +1,39 @@
+body {
+		font-family: 'book Antiqua';
+        background-color: #042006;
+		color: #ace6bb
+}
+
+	h1 {
+		color: #12632a}
+
+    #wrapper {
+        border: 1px solid #000;
+        background-color: #ceffd2;
+        min-height: 100%;
+    }
+
+    .header {
+        border: 1px solid #000;
+        background-color: #d2ffce;
+        color: #1f6e34;
+        height: 300px;
+    }
+
+    .main-navigation{
+        background-color: #83ee20;
+        height: 25%;
+        text-align: center;
+   }
+    
+    .main-navigation a{
+        text-align: center;
+        color: #060b3b;
+        text-decoration: underline;
+    }
+	
+    a:hover {
+        font-weight: bold;
+        text-decoration: none;
+    }
+

@@ -1,0 +1,16 @@
+body{
+    background-color: #518dfd;
+    background-image: url(../photos/page-background.jpeg);
+}
+
+.wrapper{
+    width: 80%;
+    border: 1px #04060a solid;
+    margin: 0 auto;
+    min-height: 100px;
+}
+
+.header{
+    background-image: url(../photos/banner.jpeg);
+    min-height: 100px;
+}

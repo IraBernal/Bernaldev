@@ -1,0 +1,35 @@
+body{
+    background-color: #F0D876;
+    color: #E88A4C;
+}
+
+iframe{ border: none; 
+        height: max-content;}
+
+#wrapper {
+        background-color: #DFAC13;
+        width: 100%;
+    }
+
+.main-navigation{
+    background-color: #DFAC13;
+    color: #fff6f2;
+    height: fit-content;
+    text-align: center;
+}
+
+.main-navigation a{
+        text-align: center;
+        color: #E88A4C;
+        text-decoration: none;
+    }
+
+a:hover{ 
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.item{ 
+    border: #F0E1C4 solid 5px;
+    width: 150px;
+    margin: 20px;}

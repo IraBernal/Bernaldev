@@ -1,0 +1,63 @@
+	body {
+		font-family: 'book Antiqua';
+        background-color: #040720;
+		color: #99c3fa
+}
+
+input{
+    background-color: #c1dcff;
+}
+
+textarea{
+    background-color: #c1dcff;
+}
+
+	h1 { color: #77a6ff}
+	h2 { color: #77a6ff}	
+    h3 { color: #77a6ff}
+    a { color: #77a6ff}
+
+    a:hover {
+        font-weight: bold;
+        text-decoration: none;
+    }
+    
+    #wrapper {
+        border: 1px solid #b5ace6;
+        background-color: #cef3ff;
+        min-height: 100%;
+    }
+
+    .header {
+        border: 1px solid #000;
+        background-color: #cef3ff;
+        height: fit-content;
+    }
+
+    .main-navigation{
+        background-color: #2091ee;
+        height: 70px;
+        text-align: center;
+        color: #090f50
+   }
+    
+    .main-navigation a{
+        text-align: center;
+        color: #060b3b;
+        text-decoration: underline;
+    }
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .btn {
+        background-color:#0955b8;
+        color: white;
+    }
+    .btn:hover {
+        background-color: white;
+        color: #0955b8;
+    }

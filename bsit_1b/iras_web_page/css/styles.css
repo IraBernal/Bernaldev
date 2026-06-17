@@ -1,0 +1,37 @@
+
+
+body{
+    color: #fff6f2;
+}
+
+#wrapper {
+        background-color: #DFAC13;
+        width: 100%;
+    }
+
+.main-navigation{
+    font-size: 300px;
+    color: #fff6f2;
+    background-color: #DFAC13;
+    height: fit-content;
+    text-align: center;
+}
+
+.main-navigation a{
+        text-align: center;
+        text-decoration: none;
+    }
+
+a:hover{ 
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.item{ 
+    border: #F0E1C4 solid 5px;
+    width: 150px;
+    margin: 20px;}
+
+h1 {
+    color: #fff6f2;
+}
